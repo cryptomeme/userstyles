@@ -1,0 +1,9 @@
+@-moz-document domain('github.com'), domain('gist.github.com') {
+
+
+
+div.file div.input *, div.file div.name *, div.meta div.info *, div.meta div.actions *, .url-field, div#browser *, .machine, tt, pre, kbd, code {
+    font-family: "DejaVu Sans Mono", "Monaco", "Consolas", "Andale Mono", monospace !important;
+}
+
+}
